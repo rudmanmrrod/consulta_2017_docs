@@ -1,0 +1,20 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node2" href="$classvsm_1_1corpus_1_1base_1_1_base_corpus.html" title="vsm.corpus.base.BaseCorpus" alt="" coords="127,5,325,32"/>
+<area shape="rect" id="node4" href="$classvsm_1_1extensions_1_1clustering_1_1manifold_1_1_manifold.html" title="vsm.extensions.clustering.manifold.\lManifold" alt="" coords="111,57,341,98"/>
+<area shape="rect" id="node5" href="$classvsm_1_1model_1_1base_1_1_base_model.html" title="vsm.model.base.BaseModel" alt="" coords="133,123,319,149"/>
+<area shape="rect" id="node8" href="$classvsm_1_1model_1_1lda_1_1_l_d_a.html" title="vsm.model.lda.LDA" alt="" coords="157,173,295,200"/>
+<area shape="rect" id="node9" href="$classvsm_1_1model_1_1ldacgs_1_1_lda_cgs.html" title="vsm.model.ldacgs.LdaCgs" alt="" coords="137,224,315,251"/>
+<area shape="rect" id="node10" href="$classvsm_1_1model_1_1ldacgsseq_1_1_lda_cgs_seq.html" title="vsm.model.ldacgsseq.LdaCgsSeq" alt="" coords="115,275,337,301"/>
+<area shape="rect" id="node13" href="$classvsm_1_1model_1_1lsa_1_1_lsa.html" title="vsm.model.lsa.Lsa" alt="" coords="160,325,292,352"/>
+<area shape="rect" id="node14" href="$classvsm_1_1model_1_1tf_1_1_t_f.html" title="vsm.model.tf.TF" alt="" coords="167,376,285,403"/>
+<area shape="rect" id="node15" href="$classvsm_1_1viewer_1_1beagleviewer_1_1_beagle_viewer.html" title="vsm.viewer.beagleviewer.\lBeagleViewer" alt="" coords="139,427,313,469"/>
+<area shape="rect" id="node16" href="$classvsm_1_1viewer_1_1ldacgsviewer_1_1_lda_cgs_viewer.html" title="vsm.viewer.ldacgsviewer.\lLdaCgsViewer" alt="" coords="139,493,313,534"/>
+<area shape="rect" id="node17" href="$classvsm_1_1viewer_1_1lsaviewer_1_1_lsa_viewer.html" title="vsm.viewer.lsaviewer.Lsa\lViewer" alt="" coords="139,558,313,599"/>
+<area shape="rect" id="node18" href="$classvsm_1_1viewer_1_1tfidfviewer_1_1_tf_idf_viewer.html" title="vsm.viewer.tfidfviewer.Tf\lIdfViewer" alt="" coords="141,623,311,665"/>
+<area shape="rect" id="node19" href="$classvsm_1_1viewer_1_1tfviewer_1_1_tf_viewer.html" title="vsm.viewer.tfviewer.TfViewer" alt="" coords="129,689,323,716"/>
+<area shape="rect" id="node3" href="$classvsm_1_1corpus_1_1base_1_1_corpus.html" title="vsm.corpus.base.Corpus" alt="" coords="405,5,573,32"/>
+<area shape="rect" id="node6" href="$classvsm_1_1model_1_1tf_1_1_tf_seq.html" title="vsm.model.tf.TfSeq" alt="" coords="420,123,557,149"/>
+<area shape="rect" id="node7" href="$classvsm_1_1model_1_1tf_1_1_tf_multi.html" title="vsm.model.tf.TfMulti" alt="" coords="636,123,779,149"/>
+<area shape="rect" id="node11" href="$classvsm_1_1model_1_1ldacgsmulti_1_1_lda_cgs_multi.html" title="vsm.model.ldacgsmulti.Lda\lCgsMulti" alt="" coords="398,235,579,277"/>
+<area shape="rect" id="node12" href="$classvsm_1_1model_1_1ldacgsseq_1_1_lda_cgs_query_sampler.html" title="vsm.model.ldacgsseq.LdaCgs\lQuerySampler" alt="" coords="389,301,588,342"/>
+</map>

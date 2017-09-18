@@ -1,0 +1,35 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node2" href="$classconsulta_1_1views_1_1_consulta_create.html" title="Clase que gestiona la creación de consultas. " alt="" coords="237,107,441,133"/>
+<area shape="rect" id="node3" href="$classconsulta_1_1views_1_1_opciones_create.html" title="Clase que gestiona la creación de opciones. " alt="" coords="236,275,443,301"/>
+<area shape="rect" id="node4" href="$classconsulta_1_1views_1_1_pregunta_create.html" title="Clase que gestiona la creación de preguntas. " alt="" coords="237,224,441,251"/>
+<area shape="rect" id="node5" href="$classprocesamiento_1_1views_1_1_procesamiento_create.html" title="Clase que gestiona la creación de perfiles procesamiento. " alt="" coords="221,158,457,199"/>
+<area shape="rect" id="node7" href="$classconsulta_1_1views_1_1_consulta_report.html" title="Clase que gestiona la vista principal de los reportes. " alt="" coords="237,325,441,352"/>
+<area shape="rect" id="node8" href="$classparticipacion_1_1views_1_1_participacion_index.html" title="Clase que gestiona la vista principal de la participación. " alt="" coords="233,494,445,535"/>
+<area shape="rect" id="node9" href="$classparticipacion_1_1views_1_1_participacion_search.html" title="Clase que gestiona la busqueda para la participación. " alt="" coords="233,559,445,601"/>
+<area shape="rect" id="node10" href="$classprocesamiento_1_1views_1_1_procesamiento_index.html" title="Clase que gestiona la vista principal del procesamiento. " alt="" coords="221,625,457,666"/>
+<area shape="rect" id="node11" href="$classprocesamiento_1_1views_1_1_procesamiento_select.html" title="Clase que gestiona la vista principal de las opciones del procesamiento. " alt="" coords="221,690,457,731"/>
+<area shape="rect" id="node12" href="$classusers_1_1views_1_1_login_view.html" title="Clase que gestiona la vista principal del logeo de usuario. " alt="" coords="261,5,417,32"/>
+<area shape="rect" id="node13" href="$classusers_1_1views_1_1_register_view.html" title="Muestra el formulario de registro de usuarios. " alt="" coords="252,56,427,83"/>
+<area shape="rect" id="node15" href="$classbase_1_1views_1_1_administrador.html" title="Clase para mostrar el menú del administrador. " alt="" coords="253,1309,425,1336"/>
+<area shape="rect" id="node16" href="$classconsulta_1_1views_1_1_consulta_delete.html" title="Clase que gestiona el borrado de consultas. " alt="" coords="238,443,441,469"/>
+<area shape="rect" id="node17" href="$classconsulta_1_1views_1_1_consulta_detail.html" title="Clase que gestiona el detalle de una consulta. " alt="" coords="240,1411,439,1437"/>
+<area shape="rect" id="node18" href="$classconsulta_1_1views_1_1_consulta_index.html" title="Clase que gestiona la vista principal de la consulta. " alt="" coords="241,1360,438,1387"/>
+<area shape="rect" id="node19" href="$classconsulta_1_1views_1_1_consulta_list.html" title="Clase que gestiona la lista de consultas. " alt="" coords="246,1512,433,1539"/>
+<area shape="rect" id="node20" href="$classconsulta_1_1views_1_1_consulta_stats.html" title="Clase que gestiona las estadísticas de la consulta. " alt="" coords="241,1127,437,1153"/>
+<area shape="rect" id="node21" href="$classconsulta_1_1views_1_1_consulta_update.html" title="Clase que gestiona la actualización de consultas. " alt="" coords="236,857,443,884"/>
+<area shape="rect" id="node22" href="$classconsulta_1_1views_1_1_opciones_delete.html" title="Clase que gestiona el borrado de una opción. " alt="" coords="236,807,443,833"/>
+<area shape="rect" id="node23" href="$classconsulta_1_1views_1_1_opciones_update.html" title="Clase que gestiona la actualización de las opciones. " alt="" coords="234,1076,445,1103"/>
+<area shape="rect" id="node24" href="$classconsulta_1_1views_1_1_pregunta_delete.html" title="Clase que gestiona el borrado de una pregunta. " alt="" coords="238,756,441,783"/>
+<area shape="rect" id="node25" href="$classconsulta_1_1views_1_1_pregunta_update.html" title="Clase que gestiona la actualización de las preguntas. " alt="" coords="236,1025,443,1052"/>
+<area shape="rect" id="node26" href="$classparticipacion_1_1views_1_1_participacion_create.html" title="Clase que gestiona la vista principal de la participación. " alt="" coords="233,1178,445,1219"/>
+<area shape="rect" id="node27" href="$classparticipacion_1_1views_1_1_participacion_simple_create.html" title="Clase que gestiona la vista principal de la participación simple. " alt="" coords="233,1243,445,1285"/>
+<area shape="rect" id="node28" href="$classprocesamiento_1_1views_1_1_procesamiento_delete.html" title="Clase que gestiona la borrado de perfiles de procesamiento. " alt="" coords="221,377,457,418"/>
+<area shape="rect" id="node29" href="$classprocesamiento_1_1views_1_1_procesamiento_list.html" title="Clase que gestiona la lista de los perfiles procesamiento. " alt="" coords="211,1461,468,1488"/>
+<area shape="rect" id="node30" href="$classprocesamiento_1_1views_1_1_procesamiento_update.html" title="Clase que gestiona la actualización de perfiles de procesamiento. " alt="" coords="221,909,457,950"/>
+<area shape="rect" id="node32" href="$classusers_1_1views_1_1_mi_participacion.html" title="Clase que gestiona la el listado de las participaciones en los aportes de la consulta. " alt="" coords="247,1563,432,1589"/>
+<area shape="rect" id="node34" href="$classusers_1_1views_1_1_perfil_update.html" title="Clase que gestiona la actualización del perfil. " alt="" coords="255,975,423,1001"/>
+<area shape="rect" id="node37" href="$classbase_1_1views_1_1_error403.html" title="Clase para mostrar el error de permisos. " alt="" coords="269,1731,410,1757"/>
+<area shape="rect" id="node38" href="$classbase_1_1views_1_1_inicio.html" title="Clase para mostrar el inicio del sistema. " alt="" coords="278,1781,401,1808"/>
+<area shape="rect" id="node39" href="$classvisualization_1_1views_1_1_list_topics.html" title="Clase que permite la visualización de un archivo en particular. " alt="" coords="261,1614,418,1655"/>
+<area shape="rect" id="node40" href="$classvisualization_1_1views_1_1_ver_documento.html" title="Clase que permite la visualización de un archivo en particular. " alt="" coords="228,1680,451,1707"/>
+</map>

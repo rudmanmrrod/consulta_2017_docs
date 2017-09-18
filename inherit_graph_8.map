@@ -1,0 +1,8 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node2" href="$classconsulta_1_1forms_1_1_consulta_search_form.html" title="Clase del formulario para realizar busquedas y generar reportes. " alt="" coords="105,5,340,32"/>
+<area shape="rect" id="node3" href="$classparticipacion_1_1forms_1_1_participacion_search_form.html" title="Clase del formulario de búsqueda. " alt="" coords="117,57,328,98"/>
+<area shape="rect" id="node4" href="$classparticipacion_1_1forms_1_1_participacion_select_form.html" title="Clase del formulario que muestra las consultas. " alt="" coords="117,122,328,163"/>
+<area shape="rect" id="node6" href="$classprocesamiento_1_1forms_1_1_procesamiento_action_form.html" title="Clase del formulario que los perfiles de procesamiento. " alt="" coords="105,187,340,229"/>
+<area shape="rect" id="node7" href="$classusers_1_1forms_1_1_login_form.html" title="Clase del formulario de logeo. " alt="" coords="145,253,301,280"/>
+<area shape="rect" id="node5" href="$classprocesamiento_1_1forms_1_1_procesamiento_select_form.html" title="Clase del formulario que muestra las consultas. " alt="" coords="388,122,623,163"/>
+</map>

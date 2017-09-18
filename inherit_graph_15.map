@@ -1,0 +1,26 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node2" href="$classunit__tests_1_1tests__beaglecomposite_1_1_test_beagle_composite.html" title="unit_tests.tests_beaglecomposite.\lTestBeagleComposite" alt="" coords="137,5,359,47"/>
+<area shape="rect" id="node3" href="$classunit__tests_1_1tests__beaglecontext_1_1_test_beagle_context.html" title="unit_tests.tests_beaglecontext.\lTestBeagleContext" alt="" coords="146,71,350,112"/>
+<area shape="rect" id="node4" href="$classunit__tests_1_1tests__beagleenvironment_1_1_test_beagle_environment.html" title="unit_tests.tests_beagleenvironment.\lTestBeagleEnvironment" alt="" coords="132,136,364,177"/>
+<area shape="rect" id="node5" href="$classunit__tests_1_1tests__beagleorder_1_1_test_beagle_order.html" title="unit_tests.tests_beagleorder.\lTestBeagleOrder" alt="" coords="153,201,343,243"/>
+<area shape="rect" id="node6" href="$classunit__tests_1_1tests__beagleviewer_1_1_test_beagle_viewer.html" title="unit_tests.tests_beagleviewer.\lTestBeagleViewer" alt="" coords="149,267,347,308"/>
+<area shape="rect" id="node7" href="$classunit__tests_1_1tests__corpus_1_1_test_corpus.html" title="unit_tests.tests_corpus.\lTestCorpus" alt="" coords="167,332,329,373"/>
+<area shape="rect" id="node8" href="$classunit__tests_1_1tests__corpus__util_1_1_test_corpus_util.html" title="unit_tests.tests_corpus\l_util.TestCorpusUtil" alt="" coords="169,397,327,439"/>
+<area shape="rect" id="node9" href="$classunit__tests_1_1tests__corpusbuilders_1_1_test_corpusbuilders.html" title="unit_tests.tests_corpusbuilders.\lTestCorpusbuilders" alt="" coords="145,463,351,504"/>
+<area shape="rect" id="node10" href="$classunit__tests_1_1tests__labeleddata_1_1_test_labeleddata.html" title="unit_tests.tests_labeleddata.\lTestLabeleddata" alt="" coords="153,528,343,569"/>
+<area shape="rect" id="node11" href="$classunit__tests_1_1tests__lda_1_1_test_lda.html" title="unit_tests.tests_lda.TestLda" alt="" coords="155,594,341,621"/>
+<area shape="rect" id="node12" href="$classunit__tests_1_1tests__ldacgsmulti_1_1_test_lda_cgs_multi.html" title="unit_tests.tests_ldacgsmulti.\lTestLdaCgsMulti" alt="" coords="153,645,343,687"/>
+<area shape="rect" id="node13" href="$classunit__tests_1_1tests__ldacgsseq_1_1_test_lda_cgs_seq.html" title="unit_tests.tests_ldacgsseq.\lTestLdaCgsSeq" alt="" coords="157,711,339,752"/>
+<area shape="rect" id="node14" href="$classunit__tests_1_1tests__ldacgsviewer_1_1_test_lda_cgs_viewer.html" title="unit_tests.tests_ldacgsviewer.\lTestLdaCgsViewer" alt="" coords="149,776,347,817"/>
+<area shape="rect" id="node15" href="$classunit__tests_1_1tests__lsa_1_1_test_lsa.html" title="unit_tests.tests_lsa.TestLsa" alt="" coords="155,842,341,869"/>
+<area shape="rect" id="node16" href="$classunit__tests_1_1tests__lsaviewer_1_1_test_lsa_viewer.html" title="unit_tests.tests_lsaviewer.\lTestLsaViewer" alt="" coords="159,893,337,935"/>
+<area shape="rect" id="node17" href="$classunit__tests_1_1tests__model_1_1_test_base_model.html" title="unit_tests.tests_model.Test\lBaseModel" alt="" coords="156,959,340,1000"/>
+<area shape="rect" id="node18" href="$classunit__tests_1_1tests__spatial_1_1_test_spatial.html" title="unit_tests.tests_spatial.\lTestSpatial" alt="" coords="167,1024,329,1065"/>
+<area shape="rect" id="node19" href="$classunit__tests_1_1tests__split_1_1_test_core.html" title="unit_tests.tests_split.TestCore" alt="" coords="147,1090,349,1117"/>
+<area shape="rect" id="node20" href="$classunit__tests_1_1tests__structarr_1_1_test_core.html" title="unit_tests.tests_structarr.\lTestCore" alt="" coords="163,1141,333,1183"/>
+<area shape="rect" id="node21" href="$classunit__tests_1_1tests__tf_1_1_test_tf.html" title="unit_tests.tests_tf.TestTf" alt="" coords="163,1207,333,1234"/>
+<area shape="rect" id="node22" href="$classunit__tests_1_1tests__tfidf_1_1_test_tf_idf.html" title="unit_tests.tests_tfidf.Test\lTfIdf" alt="" coords="163,1259,333,1300"/>
+<area shape="rect" id="node23" href="$classunit__tests_1_1tests__tfidfviewer_1_1_test_tf_idf_viewer.html" title="unit_tests.tests_tfidfviewer.\lTestTfIdfViewer" alt="" coords="157,1324,339,1365"/>
+<area shape="rect" id="node24" href="$classunit__tests_1_1tests__tfviewer_1_1_test_tf_viewer.html" title="unit_tests.tests_tfviewer.\lTestTfViewer" alt="" coords="163,1389,333,1431"/>
+<area shape="rect" id="node25" href="$classunit__tests_1_1tests__viewer__wrappers_1_1_test_viewer_wrappers.html" title="unit_tests.tests_viewer\l_wrappers.TestViewerWrappers" alt="" coords="144,1455,352,1496"/>
+</map>

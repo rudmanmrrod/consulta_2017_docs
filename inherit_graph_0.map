@@ -1,0 +1,8 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node2" href="$classbase_1_1apps_1_1_base_config.html" title="base.apps.BaseConfig" alt="" coords="174,5,329,32"/>
+<area shape="rect" id="node3" href="$classconsulta_1_1apps_1_1_consulta_config.html" title="consulta.apps.ConsultaConfig" alt="" coords="153,56,350,83"/>
+<area shape="rect" id="node4" href="$classparticipacion_1_1apps_1_1_participacion_config.html" title="participacion.apps.Participacion\lConfig" alt="" coords="148,107,355,149"/>
+<area shape="rect" id="node5" href="$classprocesamiento_1_1apps_1_1_procesamiento_config.html" title="procesamiento.apps.Procesamiento\lConfig" alt="" coords="136,173,367,214"/>
+<area shape="rect" id="node6" href="$classusers_1_1apps_1_1_users_config.html" title="users.apps.UsersConfig" alt="" coords="170,239,333,265"/>
+<area shape="rect" id="node7" href="$classvisualization_1_1apps_1_1_visualization_config.html" title="visualization.apps.Visualization\lConfig" alt="" coords="149,290,353,331"/>
+</map>

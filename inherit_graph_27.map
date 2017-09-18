@@ -1,0 +1,9 @@
+<map id="Representación gráfica de la clase" name="Representación gráfica de la clase">
+<area shape="rect" id="node2" href="$classvsm_1_1model_1_1beaglecomposite_1_1_beagle_composite.html" title="vsm.model.beaglecomposite.\lBeagleComposite" alt="" coords="145,5,337,47"/>
+<area shape="rect" id="node3" href="$classvsm_1_1model_1_1beaglecontext_1_1_beagle_context_multi.html" title="vsm.model.beaglecontext.\lBeagleContextMulti" alt="" coords="154,71,329,112"/>
+<area shape="rect" id="node4" href="$classvsm_1_1model_1_1beaglecontext_1_1_beagle_context_seq.html" title="vsm.model.beaglecontext.\lBeagleContextSeq" alt="" coords="154,136,329,177"/>
+<area shape="rect" id="node5" href="$classvsm_1_1model_1_1beagleenvironment_1_1_beagle_environment.html" title="vsm.model.beagleenvironment.\lBeagleEnvironment" alt="" coords="140,201,343,243"/>
+<area shape="rect" id="node6" href="$classvsm_1_1model_1_1beagleorder_1_1_beagle_order_multi.html" title="vsm.model.beagleorder.Beagle\lOrderMulti" alt="" coords="141,267,342,308"/>
+<area shape="rect" id="node7" href="$classvsm_1_1model_1_1beagleorder_1_1_beagle_order_seq.html" title="vsm.model.beagleorder.Beagle\lOrderSeq" alt="" coords="141,332,342,373"/>
+<area shape="rect" id="node8" href="$classvsm_1_1model_1_1tfidf_1_1_tf_idf.html" title="vsm.model.tfidf.TfIdf" alt="" coords="170,398,313,425"/>
+</map>
